@@ -1,0 +1,52 @@
+.row {
+    margin-left: 20px;
+    color: #fff;
+}
+
+.posters {
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  
+}
+
+
+
+.posters::-webkit-scrollbar {
+    display: none;
+}
+
+
+.poster {
+    max-height: 250px;
+    max-width: 250px;
+    margin-right: 10px;
+
+}
+
+.smallPoster {
+    max-height: 100px;
+    /* max-width: 250px; */
+    margin-right: 10px;
+
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-text {
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    width: 100%;
+    /* background-color: rgba(0, 0, 0, 0.5);   */
+    color: #ffffff;
+    /* Text color */
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    /* Adjust font size as needed */
+}
