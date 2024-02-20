@@ -25,3 +25,9 @@ TMDB API
 4)Start the development server:
 
   npm start
+
+
+screenshots
+![Screenshot (2)](https://github.com/chandana-gm/netflixLandingPage/assets/130354667/49400683-2dae-4ee9-b99a-15cb7603813a)
+![Screenshot (3)](https://github.com/chandana-gm/netflixLandingPage/assets/130354667/26f9fc9f-8926-48bd-98e1-24d0e65638b9)
+
